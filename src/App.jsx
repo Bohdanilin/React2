@@ -6,8 +6,7 @@ function App() {
 
   return (
     <>
-      <div id="header"><p>
-        <img width="60px" src="./icons/main.png" alt="Bohdan" /></p><b>Bohdan</b>
+      <div id="header">
         <ul id="nav">
           <a href="#Glowna"><li>Główna</li></a>
           <a href="#Glowna"><li>Obo mnie</li></a>
@@ -15,7 +14,6 @@ function App() {
         </ul></div>
       <div id="main">
         <a id="Glowna"><div>Główna</div></a>
-        <img width="350px" src="./photos/me.jpg" alt="Me" />
         <ul><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed libero inventore facere ducimus rerum alias hic aut nesciunt animi, sequi quis accusantium sunt perspiciatis sint mollitia ipsa cumque esse quisquam!</p>
           <p>Et excepturi enim facere sequi dolorem repudiandae quas dolores. Saepe, nesciunt quis corporis asperiores sint itaque ipsam soluta sed laborum repudiandae doloribus ex aut velit voluptates, deleniti, quo explicabo error!</p>
           <p>Ducimus, officiis. Placeat omnis necessitatibus, non consectetur fuga iusto modi eaque reiciendis rerum. At dolor magnam incidunt veniam non, cum repudiandae dignissimos vero vel molestias ea dicta doloribus fugiat blanditiis.</p>
@@ -67,7 +65,6 @@ function App() {
           <p>Tempore error iure, cum ut illo modi enim ea, saepe consequatur veritatis autem adipisci est quas quisquam facilis non repellendus quia reiciendis labore nostrum. Doloremque id a unde ipsum molestiae?</p>
           <p>Dolorem, autem eaque optio voluptate modi assumenda quidem sapiente eligendi voluptatibus, quisquam eius labore! Minima neque ad exercitationem commodi libero nulla veniam sint tenetur odit? Accusantium odit minus esse repellendus.</p></ul></div >
       <div id="footer"> <a id="Kontakty"><div>Kontakty</div></a>
-        <img src="./photos/Dolina.jpeg" alt="Dolina" />
         <ul>
           <li><b>Telefon</b> +48 777 777 77 77</li>
           <li><b>Mail:</b> bohdan@gmail.com</li>
